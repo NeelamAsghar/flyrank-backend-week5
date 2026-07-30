@@ -104,6 +104,3 @@ Through this assignment, I learned how to:
 Author
 
 Neelam Asghar
-
-## Output Statement
-![Scraper Output](c:\Users\HP ELITE\OneDrive\Desktop\output.png)
